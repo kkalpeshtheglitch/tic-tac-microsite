@@ -1,0 +1,18 @@
+tictacconsumerpromo server details
+
+WHM Details :
+
+http://72.249.144.155:2086/ or  http://alpha.tictacconsumerpromo.in/whm
+
+username  :  root
+password  :  web123abc123
+
+Cpanel Details : 
+
+http://72
+
+domain : tictacconsumerpromo.in
+username : tictacconsumerpr
+password  : Tic@tac123
+email     : mayank@theglitch.in
+
